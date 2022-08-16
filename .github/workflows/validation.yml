@@ -16,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: anishathalye/proof-html@v1
+      - uses: Cyb3r-Jak3/html5validator-action
         with:
-          directory: ./
+          root: /
+          css: true
