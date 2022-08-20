@@ -17,8 +17,7 @@ body {
 
 main {
   z-index: -1;
-  padding-top: 56px;
-  min-height: 100vh;
+  padding-top: 56px min-height: 100vh;
 }
 
 header {
