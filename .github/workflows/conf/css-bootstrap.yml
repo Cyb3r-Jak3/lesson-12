@@ -1,6 +1,5 @@
 root: ./
 ignore_re:
   - “ng-[a-z-]+” Invalid RGB function.
-  - “ng-[a-z-]+” Property “ng-[a-z-]+” doesn't exist
   - Unknown pseudo-element or pseudo-class “ng-[a-z-]+”
   - Duplicate ID “ng-[a-z-]+”
