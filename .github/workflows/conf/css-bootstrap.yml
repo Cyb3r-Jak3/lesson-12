@@ -1,7 +1,2 @@
 root: ./
-match:
-  - "*.html"
-  - "*.css"
-ignore_re:
-  - “ng-[a-z-]+” Invalid RGB function.
-  - Duplicate ID “ng-[a-z-]+”
+css: true
