@@ -1,3 +1,5 @@
+root: ./
+css: true
 ignore_re:
   - “ng-[a-z-]+” Invalid RGB function.
   - Duplicate ID “ng-[a-z-]+”
