@@ -18,6 +18,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Cyb3r-Jak3/html5validator-action@master
         with:
-          config: ./conf/css-bootstrap.yml
+          config: .github/workflows/conf/css-bootstrap.yml
           root: ./
           css: true
