@@ -1,5 +1,4 @@
 root: ./
-match:
-  - "*.html"
-  - "*.css"
 css: true
+ignore_re:
+  - '^CSS:'
